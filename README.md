@@ -10,3 +10,4 @@ The data is obtained from https://datahack.analyticsvidhya.com/contest/practice-
 1. Holt Winter's Model
 2. ARIMA
 3. Prophet
+4. SARIMAX
