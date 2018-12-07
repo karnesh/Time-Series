@@ -5,3 +5,8 @@ An investment firm wants forecast of passenger count for a period of 18 months i
 
 ## Dataset
 The data is obtained from https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/.
+
+## Forecasting Models
+1. Holt Winter's Model
+2. ARIMA
+3. Prophet
